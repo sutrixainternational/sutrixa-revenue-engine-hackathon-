@@ -1,6 +1,6 @@
 ---
 Name: "Project Submission"
-About: Submit your completed Zero-Cost Revenue Engine project.
+About: "Submit your completed Zero-Cost Revenue Engine project"
 Title: "[SUBMISSION] - Your Name"
 Labels: ["candidate-submission"]
 ---
