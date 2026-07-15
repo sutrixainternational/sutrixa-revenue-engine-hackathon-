@@ -1,8 +1,8 @@
 ---
-Name: "Project Submission"
-About: "Submit your completed Zero-Cost Revenue Engine project"
-Title: "[SUBMISSION] - Your Name"
-Labels: ["candidate-submission"]
+name: "Project Submission"
+about: "Submit your completed Zero-Cost Revenue Engine project"
+title: "[SUBMISSION] - Your Name"
+labels: ["candidate-submission"]
 ---
 
 ## Candidate Information
