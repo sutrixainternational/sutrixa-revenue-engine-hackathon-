@@ -1,13 +1,8 @@
-
-Neil Dutta
-4:09 PM (0 minutes ago)
-to connect
-
 ---
-name: "Project Submission"
-about: Submit your completed Zero-Cost Revenue Engine project.
-title: "[SUBMISSION] - Your Name"
-labels: ["candidate-submission"]
+Name: "Project Submission"
+About: Submit your completed Zero-Cost Revenue Engine project.
+Title: "[SUBMISSION] - Your Name"
+Labels: ["candidate-submission"]
 ---
 
 ## Candidate Information
